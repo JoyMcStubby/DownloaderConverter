@@ -47,7 +47,7 @@ pip install PyQt6 yt-dlp
 - Enter the video or playlist URL.
 - Click "Fetch Formats" to retrieve available formats.
 - Choose "Audio Only Mode" if you want audio extraction/conversion.
-- Select a download folder.
+- Select a download folder if not the default folder is C:\Users\"your user name"
 - Download immediately or add to queue.
 - Monitor progress in the GUI.
 
